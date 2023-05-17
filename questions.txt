@@ -1,0 +1,19 @@
+cosine similarity:
+Cosine similarity is used as a metric in different machine learning algorithms like the KNN for determining the distance between the neighbors, in recommendation systems, it is used to recommend movies with the same similarities and for textual data, it is used to find the similarity of texts in the document.
+
+Why is TF-IDF used in machine learning?
+TF-IDF stands for term frequency-inverse document frequency and it is a measure, used in the fields of information retrieval (IR) and machine learning, that can quantify the importance or relevance of string representations (words, phrases, lemmas, etc) in a document amongst a collection of documents
+
+
+What is Gunicorn in Python?
+Gunicorn is a pure-Python HTTP server for WSGI applications. It allows you to run any Python application concurrently by running multiple Python processes within a single dyno. It provides a perfect balance of performance, flexibility, and configuration simplicity
+
+what is flask?
+Flask is used for developing web applications using python, implemented on Werkzeug and Jinja2. Advantages of using Flask framework are: There is a built-in development server and a fast debugger provided.
+
+
+What is a sklearn in Python?
+Scikit-learn is an open source data analysis library, and the gold standard for Machine Learning (ML) in the Python ecosystem. Key concepts and features include: Algorithmic decision-making methods, including: Classification: identifying and categorizing data based on patterns.
+
+What is pandas used for in Python?
+Pandas is a Python library. Pandas is used to analyze data
